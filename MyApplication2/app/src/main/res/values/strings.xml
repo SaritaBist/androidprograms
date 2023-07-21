@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="button1"> Next Actvity</string>
+    <string name="mytext">First Activity</string>
+    <string name="button2"> Go back</string>
+    <string name="mytext2">Second Activity</string>
+/>
+</resources>
